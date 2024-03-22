@@ -1,5 +1,4 @@
-### Hi there 👋
-### More info coming soon...
+### Hi! Welcome to my GitHub. Feel free to poke around. More cleanup & fun stuff coming soon.
 
 <!--
 **rbozek/rbozek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
