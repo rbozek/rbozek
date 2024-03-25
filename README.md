@@ -1,4 +1,4 @@
-![humanity contains both](/images/kuon-airwaves-art-crop.jpg)
+![humanity contains both](/images/kuon-airwaves-art-crop2.jpg)
 
 ### Hi! Welcome to my GitHub. Feel free to poke around. More fun stuff coming soon.
 
