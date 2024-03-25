@@ -1,3 +1,5 @@
+![humanity contains both](/images/kuon-airwaves-art-crop.jpg)
+
 ### Hi! Welcome to my GitHub. Feel free to poke around. More fun stuff coming soon.
 
 ### [My LinkedIn](https://www.linkedin.com/in/richbozek "Rich Bozek's LinkedIn")
