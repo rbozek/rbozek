@@ -1,8 +1,8 @@
-# *This section still under construction!*
+## Welcome to Rich's GitHub Corner. 
 
 ![humanity contains both](/images/kuon-airwaves-art-crop2.jpg)
 
-### But for now, feel free to poke around. More fun stuff coming soon.
+### Under minor construction. Feel free to poke around. Lots more coming soon.
 
 ### [My LinkedIn](https://www.linkedin.com/in/richbozek "Rich Bozek's LinkedIn")
 ### [My Portfolio](https://rbozek.netlify.app "Rich Bozek's Portfolio")
