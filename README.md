@@ -19,7 +19,10 @@ Happy to be back in action here after a couple challenging weeks. I had my hands
 
 
 <!--
-NOTE:  **rbozek/rbozek** is special GH repository - its `README.md` (this file) appears on GH profile.
+If you're reading this...why are you snooping around here? Don't you have better things to do?
+
+Saved for reference:
+**rbozek/rbozek** is special GH repository - its `README.md` (this file) appears on GH profile.
 Common usage:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
