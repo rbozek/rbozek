@@ -1,14 +1,20 @@
-## Welcome to Rich's GitHub Corner. 
+# Welcome to Rich's Cozy GitHub Corner.
+### Take off your shoes and stay awhile.
 
 ![humanity contains both](/images/kuon-airwaves-art-crop2.jpg)
 
+2024 August
 
-### Feel free to poke around.
+Hey fellow humans and internet denizens!
+
+Happy to be back in action here after a couple challenging weeks. I had my hands full with family issues, health insurance red tape (unrelated), and some private freelance work. I'm excited to keep developing my skillss & build things **for people**  or **with people**!
 
 
 
-### [My LinkedIn](https://www.linkedin.com/in/richbozek "Rich Bozek's LinkedIn")
-### [My Portfolio](https://rbozek.netlify.app "Rich Bozek's Portfolio")
+
+### [LinkedIn](https://www.linkedin.com/in/richbozek "Rich's LinkedIn")
+### [Web Dev Portfolio](https://rbozek.netlify.app "Rich's Portfolio")
+### [Art & Music](https://www.richbozek.com "Rich's Art & Music")
 
 
 
