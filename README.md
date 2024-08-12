@@ -7,6 +7,7 @@ Happy to be back in action here after a couple challenging weeks. I had my hands
 
 If you have a job opporunity, or want to build something together, or if you just want to say hi - please reach out!
 
+Here's where you can find me:
 ### [:office: LinkedIn](https://www.linkedin.com/in/richbozek "Rich's LinkedIn")
 ### [:computer: Web Dev Portfolio](https://rbozek.netlify.app "Rich's Portfolio")
 ### [:musical_note: Art & Music](https://www.richbozek.com "Rich's Art & Music")
