@@ -1,12 +1,11 @@
 # Welcome to Rich's Cozy GitHub Corner.
 ### Take off your shoes and stay awhile.
-
 ![humanity contains both](/images/kuon-airwaves-art-crop2.jpg)
-
 2024 August  
 Hey fellow humans and internet denizens!  
-Happy to be back in action here after a couple challenging weeks. I had my hands full with family issues, health insurance red tape (unrelated), and some private freelance work. I'm excited to keep developing my skillss & build things **for people**  or **with people**!  
+Happy to be back in action here after a couple challenging weeks. I had my hands full with family issues, health insurance red tape (unrelated), and some private freelance work. I'm excited to continue developing my skills & building things **for people** or **with people**!
 
+If you have a job opporunity, or want to build something together, or if you just want to say hi - please reach out!
 
 ### [LinkedIn](https://www.linkedin.com/in/richbozek "Rich's LinkedIn")
 ### [Web Dev Portfolio](https://rbozek.netlify.app "Rich's Portfolio")
