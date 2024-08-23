@@ -12,7 +12,7 @@ Here's where you can find me:
 ### [:computer: Web Dev Portfolio](https://rbozek.netlify.app "Rich's Portfolio")
 ### [:musical_note: Art & Music](https://www.richbozek.com "Rich's Art & Music")
 
-
+Have a good time out there! Remember - be nice and don't litter.
 
 <!--
 If you're reading this...why are you snooping around here? Don't you have better things to do?
