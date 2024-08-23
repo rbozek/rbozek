@@ -12,6 +12,8 @@ Here's where you can find me:
 ### [:computer: Web Dev Portfolio](https://rbozek.netlify.app "Rich's Portfolio")
 ### [:musical_note: Art & Music](https://www.richbozek.com "Rich's Art & Music")
 
+<br/>
+
 Have a good time out there! Remember - be nice and don't litter.
 
 <!--
