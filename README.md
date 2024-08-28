@@ -16,7 +16,7 @@ Here's where you can find me:
 
 <br/>
 
-Have a good time out there! Remember - be nice and don't litter.
+Have a good time out there! Remember - be nice. Don't litter.
 
 <!--
 If you're reading this...why are you snooping around here? Don't you have better things to do?
