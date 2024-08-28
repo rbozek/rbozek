@@ -1,5 +1,5 @@
-# Welcome to Rich's Cozy GitHub Corner.
-### Take off your shoes and stay awhile.
+# Welcome to Rich's GitHub Corner.
+### Get comfy and stay awhile.
 ![humanity contains both](/images/kuon-airwaves-art-crop2.jpg)
 2024 August:
 
