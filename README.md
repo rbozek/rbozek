@@ -6,7 +6,7 @@
 Hey fellow humans and internet denizens!  
 Happy to be back in action after a couple challenging weeks. I had my hands full with some family issues, health insurance red tape (unrelated), and some fun freelance work! My mission on earth (for now at least) is to continue developing my skills & build things **for people** or **with people**!
 
-My most recent work was with [The Conservatory at Highlands](https://www.highlandsconservatory.com/) in Boston MA. They initially built their site using Squarespace many years ago, and I've been helping clean up some back-end assets, rework some UI/UX choices, and re-design a [landing page](https://www.highlandsconservatory.com/back-to-school) for their back-to-school programs. 
+My most recent work was with [The Conservatory at Highlands](https://www.highlandsconservatory.com/) in Boston MA. They built their site using Squarespace many years ago, and I've been helping clean up some back-end assets, rework some UI/UX choices, and re-design a [landing page](https://www.highlandsconservatory.com/back-to-school) for their back-to-school programs. 
 
 If you have a job opporunity, or want to build something together, or just want to say hi - please reach out!
 
