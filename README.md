@@ -1,7 +1,7 @@
 # Welcome to Rich's GitHub Corner.
 ### Get comfy and stay awhile.
 ![humanity contains both](/images/kuon-airwaves-art-crop2.jpg)
-2024 August:
+2024 September:
 
 Hey fellow humans and internet denizens!  
 Happy to be back in action after a couple challenging weeks. I had my hands full with some family issues, health insurance red tape (unrelated), and some fun freelance work! My mission on earth (for now at least) is to continue developing my skills & build things **for people** or **with people**!
