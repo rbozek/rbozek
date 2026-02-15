@@ -1,12 +1,15 @@
-# Welcome to Rich's GitHub Corner. 
-### Get comfy and stay awhile. 
+# .welcome. 
+### "i even be gettin more graphic than an Neo Geo 32-bit computer chip" - monch
+
 ![humanity contains both](/images/kuon-airwaves-art-crop2.jpg)
-2024 September: 
 
-Hey fellow humans and internet denizens! 
-Happy to be back in action after a challenging summer. I had my hands full with some family issues, health insurance red tape (unrelated), and some fun freelance work! My mission on earth (for now at least) is to continue developing my skills & build things **for people** or **with people**! 
+Coder, musician, artist, autodidact, lifelong learner. Attempting to be a good human at all times. 
 
-My most recent work has been Web Administrator for [The Conservatory at Highlands](https://www.highlandsconservatory.com/) in Newton Highlands, MA. I've been managing back-end assets, enhancing UI/UX for improved user experience, designing [landing pages](https://www.highlandsconservatory.com/back-to-school) for short-term school programs, and troubleshooting technical issues that arise from their existing web builds. 
+I've recently been doing some freelance work designing & developing responsive websites for businesses and personal clients. Some projects involve stepping into an existing setup and extending it; others require building and managing end-to-end. The focus across all of them is keeping things usable, understandable, and sustainable for non-technical clients.
+
+In practice, that’s included managing hosting, domains, and back-end services; making practical UI and layout improvements; designing and editing landing pages and content; and connecting third-party tools like scheduling, payments, and email so clients can manage their own sites without needing constant technical support.
+
+A few recent clients: [The Conservatory at Highlands](https://www.highlandsconservatory.com/), [First Chair Transport](https://www.ridefirstchair.com/), [Janet Villani-Smith, AAHCC](https://www.janetvillani.com/), [Kemtone Social](https://www.kemtonesocial.com/).
 
 If you have a job opporunity, or want to build something together, or just want to say hi - please reach out! 
 
@@ -17,22 +20,10 @@ Here's where you can find me:
 
 <br/>
 
-Have a good time out there! Remember - be nice. Don't litter. 
+Remember, people - be nice. Don't litter. 
 
 <!--
 If you're reading this...why are you snooping around here? Don't you have better things to do?
-
-Saved for reference:
-**rbozek/rbozek** is special GH repository - its `README.md` (this file) appears on GH profile.
-Common usage:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
